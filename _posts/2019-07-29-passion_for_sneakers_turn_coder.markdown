@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Passion for sneakers turn coder"
-date:       2019-07-29 17:25:59 +0000
+date:       2019-07-29 13:26:00 -0400
 permalink:  passion_for_sneakers_turn_coder
 ---
 
