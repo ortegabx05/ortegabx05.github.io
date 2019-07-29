@@ -1,11 +1,11 @@
 # Site settings
-author: jessi ortega
-title: 
+author: Jessi Ortega
+title: Hypebeast
 header-img: img/home-bg.png
 email: ortegabx05@gmail.com
-copyright_name: jessi ortega
+copyright_name: Jessi Ortega
 description: > # this means to ignore newlines until "baseurl:"
-  
+  From Sneakers to Coding
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ortegabx05
