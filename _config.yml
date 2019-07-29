@@ -1,0 +1,20 @@
+# Site settings
+author: jessi ortega
+title: 
+header-img: img/home-bg.png
+email: ortegabx05@gmail.com
+copyright_name: jessi ortega
+description: > # this means to ignore newlines until "baseurl:"
+  
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  ortegabx05
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
